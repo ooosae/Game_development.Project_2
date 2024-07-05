@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6efd1bd64358b644581b9bdbc5ba71ff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - birdPrefab: {fileID: 1844827636381818, guid: 22e82e37709fde34fb65a2fd28fbfb05, type: 3}
+  - dogPrefab: {fileID: 100002, guid: 23087f4be52d60c488a49d499dfc98fb, type: 3}
+  - obstaclePrefab1: {fileID: 919132149155446097, guid: da1981c3ee8ea7e4186a753e15495628, type: 3}
+  - obstaclePrefab2: {fileID: 100000, guid: 41ba2a6f1d128f94eba95e5213a81254, type: 3}
+  - obstaclePrefab3: {fileID: 100000, guid: b332dc24cbb08144da2f112f82406700, type: 3}
+  - obstaclePrefab4: {fileID: 100000, guid: 821158ae724ce854e920539f935295b8, type: 3}
+  - obstaclePrefab5: {fileID: 100000, guid: f1c3f8e347f55f44e98e7ea73efac66e, type: 3}
+  - obstaclePrefab6: {fileID: 100000, guid: ab34fd65b601dab41915f4e874408d28, type: 3}
+  - obstaclePrefab7: {fileID: 100000, guid: f74defbe1b9a23449aef9a881263fe0c, type: 3}
+  - coinPrefab: {fileID: 1000010714891294, guid: 5a0537415d4017c4fad7a4986f502dc1, type: 3}
+  - boostPrefab: {fileID: 100000, guid: bc0cdff0b0fdafc46bbdbda4b3717d71, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
